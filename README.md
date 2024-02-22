@@ -13,7 +13,7 @@
 
 
 ## Getting Started
-To use MetaVez is sufficient to visit the following link 
+To use MetaVez is sufficient to visit the following link https://vezavatar.netlify.app/
 
 ## Technology drill-down
 The project uses different C# modules that dialogue with each other the "VezManager" is the main module. The following image provides detailed insight in the module structure.
