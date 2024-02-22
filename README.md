@@ -19,3 +19,6 @@ To use MetaVez is sufficient to visit the following link
 The project uses different C# modules that dialogue with each other the "VezManager" is the main module. The following image provides detailed insight in the module structure.
 
 ![VezAvatar documentation](https://github.com/IChrono/Il-Vez-Avatar/assets/74292381/b84bdd88-3a30-48d7-8bfe-4b5930e3c438)
+
+## Code availability
+The code is currently not publicly sharable in its entirety, email me for access request.
