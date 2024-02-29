@@ -6,7 +6,7 @@
 
 ## Technology Used
  The project is built in Unity for WebGL and can run in any desktop browser. Mobile browser support is currently limited due to lack of compatibility on Unity.
- It leverages OpenAI Whisper speech-to-text, speech-to-text and ChatGPT APIs. For microphone integration in Unity we created a custom plugin (JSLIB module) that activates the browser's recording. Avatar is built using ReadyPlayerMe, and lipsync is managed trough uLipSync. 
+ It leverages OpenAI Whisper speech-to-text, text-to-speech and ChatGPT APIs. For microphone integration in Unity we created a custom plugin (JSLIB module) that activates the browser's recording. Avatar is built using ReadyPlayerMe, and lipsync is managed trough uLipSync. 
  In the following image is shown a simplified structure of the project.
  
 ![VezAvatar documentation (1)](https://github.com/IChrono/Il-Vez-Avatar/assets/74292381/9333419b-2480-49f4-a52e-bb82f50e4d91)
@@ -20,5 +20,12 @@ The project uses different C# modules that dialogue with each other the "VezMana
 
 ![VezAvatar documentation](https://github.com/IChrono/Il-Vez-Avatar/assets/74292381/b84bdd88-3a30-48d7-8bfe-4b5930e3c438)
 
+## Project team and roles
+- Enrico Crosato @IChrono: Whisper TTS integration, lipsync, level design, web deployment.
+- Alessandro Fiastri @Alexjkz: main logic, custom plugin (JSLIB module) for microphone integration, avatar animations, documentation.
+- Marco Piamonte @jady17500: Whisper STT and ChatGPT integration. 
+- Gianluigi Lucca Fabris @juanfabris: ReadyPlayerMe avatar.
+- Gabriele Casazza @CasazzaGabriele: Avatar animations, lipsync.
 ## Code availability
 The code is currently not publicly sharable in its entirety, email me for access request.
+
